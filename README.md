@@ -25,7 +25,11 @@ Everything your AI needs answers one of four questions. So your vault has four f
 
 **2. Fill it in — two ways:**
 
-🤖 **Let AI do it (fastest — and the best demo of the whole idea).** Open this folder in [Claude Code](https://claude.com/claude-code) and say *"run the interview in `SETUP-INTERVIEW.md`"* — it grills you (nicely) one question at a time, **starting with the *why***, and writes your `about-me.md` for you. Not on Claude Code? Open [`SETUP-INTERVIEW.md`](SETUP-INTERVIEW.md), copy the prompt, and paste it into ChatGPT or Claude. *(Using AI to set up your AI's memory — that's the whole point.)*
+🤖 **Let AI do it (fastest — and the best demo of the whole idea).** In [Claude Code](https://claude.com/claude-code), paste this one line:
+
+> `Clone https://github.com/JPmack23/second-brain-starter-kit and run the interview in SETUP-INTERVIEW.md to set up my second brain.`
+
+It clones the kit, grills you (nicely) one question at a time — **starting with the *why*** — and writes your `about-me.md` for you. Not using Claude Code? Grab the repo with `git clone https://github.com/JPmack23/second-brain-starter-kit`, then open [`SETUP-INTERVIEW.md`](SETUP-INTERVIEW.md), copy the prompt, and paste it into ChatGPT or Claude. *(Using AI to set up your AI's memory — that's the whole point.)*
 
 ✍️ **Or by hand.** Open `Context/about-me.md`, read the prompt in each section, and fill in the blanks. Ten minutes.
 
