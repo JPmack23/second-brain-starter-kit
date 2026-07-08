@@ -47,9 +47,8 @@ Once you're past a thousand notes, the question is: how does the AI find the rig
 - **[graphify](https://github.com/Graphify-Labs/graphify)** — the knowledge-graph upgrade (advanced)
 
 ## Where I learned this (credit where it's due)
-- **[Ben.ai](https://benai.co)** — the method this is built on (worth the community if you want to go deep)
-- **Chase.ai** — ideas I picked up and adapted
-- …and a few others along the way
+- **[Ben.ai](https://benai.co)** — the principles this is built on, shared on his YouTube and in his private group (worth it if you want to go deep)
+- …and a few other content creators I follow and rate
 
 *What's mine is the proof — I actually run this across the businesses I work in — and this one rule:*
 
