@@ -25,11 +25,7 @@ Everything your AI needs answers one of four questions. So your vault has four f
 
 **2. Fill it in — two ways:**
 
-🤖 **Let AI do it (fastest — and the best demo of the whole idea).** Open this folder in [Claude Code](https://claude.com/claude-code) (or any AI that can read the files) and paste this:
-
-> *Read every template in this folder. Then interview me one question at a time to fill in `Context/about-me.md` — ask about who I am, my work, what I'm focused on right now, who I serve, and how I like you to work with me. When we're done, save the completed file.*
-
-It'll ask you a handful of questions and write the file for you. (Using AI to set up your AI's memory — that's the whole point.)
+🤖 **Let AI do it (fastest — and the best demo of the whole idea).** Open this folder in [Claude Code](https://claude.com/claude-code) and say *"run the interview in `SETUP-INTERVIEW.md`"* — it grills you (nicely) one question at a time, **starting with the *why***, and writes your `about-me.md` for you. Not on Claude Code? Open [`SETUP-INTERVIEW.md`](SETUP-INTERVIEW.md), copy the prompt, and paste it into ChatGPT or Claude. *(Using AI to set up your AI's memory — that's the whole point.)*
 
 ✍️ **Or by hand.** Open `Context/about-me.md`, read the prompt in each section, and fill in the blanks. Ten minutes.
 
