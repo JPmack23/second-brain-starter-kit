@@ -19,7 +19,23 @@ Everything your AI needs answers one of four questions. So your vault has four f
 
 **Who you are · what you're working on · what you know · what happened.** That's the whole system.
 
-## Setup — pick your path
+## Get started — how to actually fill it in
+
+**1. Get the kit.** Clone this repo, or hit the green **`Code`** button above → **Download ZIP**, and unzip it.
+
+**2. Fill it in — two ways:**
+
+🤖 **Let AI do it (fastest — and the best demo of the whole idea).** Open this folder in [Claude Code](https://claude.com/claude-code) (or any AI that can read the files) and paste this:
+
+> *Read every template in this folder. Then interview me one question at a time to fill in `Context/about-me.md` — ask about who I am, my work, what I'm focused on right now, who I serve, and how I like you to work with me. When we're done, save the completed file.*
+
+It'll ask you a handful of questions and write the file for you. (Using AI to set up your AI's memory — that's the whole point.)
+
+✍️ **Or by hand.** Open `Context/about-me.md`, read the prompt in each section, and fill in the blanks. Ten minutes.
+
+**3. Connect it** so your AI reads it every session — pick your path below.
+
+## Connect it (so your AI reads your brain)
 **🟢 No-code (any AI, 10 min):** fill in `Context/about-me.md`, then paste it at the top of a ChatGPT/Claude chat (or add it as a Project's instructions). Done — the AI knows you before you type.
 
 **🔵 Power (Obsidian + Claude Code):** keep the four folders in [Obsidian](https://obsidian.md), and keep the `CLAUDE.md` here — it tells [Claude Code](https://claude.com/claude-code) to read your brain automatically every session. No pasting, ever.
